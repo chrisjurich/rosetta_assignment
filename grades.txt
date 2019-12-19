@@ -1,0 +1,16 @@
+Score: 100/100
+
+Does the code work: 60/60
+Comments: 
+
+variable/function names: 10/10
+Comments:
+
+commenting: 10/10
+Comments:
+
+efficiency: 10/10
+Comments:
+
+testing:10/10
+Comments:
